@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Haven-client/static/css/main.1f2fdf3c.css",
-    "main.js": "/Haven-client/static/js/main.5fbf3d70.js",
+    "main.js": "/Haven-client/static/js/main.0225f775.js",
     "static/js/787.d5fa4d18.chunk.js": "/Haven-client/static/js/787.d5fa4d18.chunk.js",
     "static/media/Logo.svg": "/Haven-client/static/media/Logo.79fb2442137c8415758d755caed7caba.svg",
     "index.html": "/Haven-client/index.html",
     "main.1f2fdf3c.css.map": "/Haven-client/static/css/main.1f2fdf3c.css.map",
-    "main.5fbf3d70.js.map": "/Haven-client/static/js/main.5fbf3d70.js.map",
+    "main.0225f775.js.map": "/Haven-client/static/js/main.0225f775.js.map",
     "787.d5fa4d18.chunk.js.map": "/Haven-client/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f2fdf3c.css",
-    "static/js/main.5fbf3d70.js"
+    "static/js/main.0225f775.js"
   ]
 }
