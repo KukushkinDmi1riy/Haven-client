@@ -1,0 +1,8 @@
+.active {
+	color:aliceblue;
+	background-color: #2196f3;
+}
+
+.pointer {
+	cursor: pointer;
+}
